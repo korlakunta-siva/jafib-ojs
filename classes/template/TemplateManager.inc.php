@@ -56,8 +56,8 @@ class TemplateManager extends PKPTemplateManager {
 
 			// Pass app-specific details to template
 			$this->assign(array(
-				'brandImage' => 'templates/images/ojs_brand.png',
-				'packageKey' => 'common.openJournalSystems',
+				'brandImage' => 'templates/images/cardiofront-logo-img.png',
+				'packageKey' => 'common.common.cardioFrontLLC',
 			));
 
 			// Get a count of unread tasks.
